@@ -1,0 +1,15 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Material",
+            "value": "Pencil"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Purple"
+        }
+    ],
+    "description": "The world's most important statement.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVCUUHdnyc8m4G2K7hZiBvD9FL5vSK3UwmgqHWJvLhbVQ",
+    "name": "ImportantMessage"
+}
